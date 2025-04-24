@@ -1,0 +1,13 @@
+[project]
+name = "pasm_sdk"
+version = "0.1.0"
+description = "Minimal SDK for assembling x86/ARM"
+authors = [{name = "John Hummel"}]
+requires-python = ">=3.6"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent"
+]
+
+[project.scripts]
+assemble = "pasm_sdk.cli:main"

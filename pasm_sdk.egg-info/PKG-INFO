@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: pasm_sdk
+Version: 0.1.0
+Summary: Minimal SDK for assembling x86/ARM
+Author: John Hummel
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6

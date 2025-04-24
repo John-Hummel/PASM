@@ -1,0 +1,2 @@
+[console_scripts]
+assemble = pasm_sdk.cli:main
